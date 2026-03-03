@@ -1,4 +1,4 @@
-# Hey, I'm Ethan 👋
+# Hey, I'm Ethan 
 
 CS @ Columbia University
 
