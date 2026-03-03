@@ -1,6 +1,6 @@
 # Hey, I'm Ethan 👋
 
-CS @ Columbia University · Incoming SWE Intern @ JD.com
+CS @ Columbia University
 
 I build tools that solve real problems — from autonomous robots that clean lakes to ML frameworks that make model training dead simple.
 
