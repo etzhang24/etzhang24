@@ -6,7 +6,7 @@ I build tools that solve real problems — from autonomous robots that clean lak
 
 ### What I'm working on
 
-- 🤖 **[Columbia Robotics — AQUAS](https://github.com/etzhang24)** — Pathfinding algorithms and a real-time geospatial dashboard for an autonomous water quality robot
+- 🤖 **[Columbia Robotics — AQUAS]([https://github.com/etzhang24](https://github.com/AQUAS-mission/aquas-logging))** — Pathfinding algorithms and a real-time geospatial dashboard for an autonomous water quality robot
 - 🔍 **[Bias Detection Engine](https://github.com/etzhang24/bias_detection_engine)** — Open-source library for detecting data leakage and bias in ML datasets
 - ⚡ **[MLSimplified](https://github.com/etzhang24/mlsimplified)** — ML framework that gets you from raw data to trained model in 5 lines of code
 
