@@ -12,7 +12,7 @@ I build tools that solve real problems — from autonomous robots that clean lak
 
 ### Tech I work with
 
-`Python` `TypeScript` `C` `C++` `Java` `React` `Node.js` `scikit-learn` `pandas` `MapLibre GL`
+`Python` `TypeScript` `C` `` `Java` `React` `Node.js` `scikit-learn` `pandas` `MapLibre GL`
 
 ### Links
 
