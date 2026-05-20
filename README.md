@@ -1,6 +1,6 @@
 # Hey, I'm Ethan
 
-CS @ Columbia University · Incoming SWE Intern @ JD.com (Summer 2026)
+CS @ Columbia University · Incoming SWE Intern @ Alibaba (Summer 2026)
 
 ### What I'm working on
 - **[Columbia Software Solutions](https://github.com/etzhang24)** — Founded a tech consultancy delivering pro bono software to NYC nonprofits and startups
