@@ -9,8 +9,8 @@ CS @ Columbia University · Incoming SWE Intern @ Alibaba (Summer 2026)
 - **[Bias Detection Engine](https://github.com/etzhang24/bias_detection_engine)** — Open-source library for detecting data leakage and bias in ML datasets
 - **[MLSimplified](https://github.com/etzhang24/mlsimplified)** — ML framework that gets you from raw data to trained model in 5 lines of code
 
-### Tech I work with
-`Python` `TypeScript` `C` `Java` `React` `Node.js` `PostgreSQL` `MQTT` `scikit-learn` `pandas` `MapLibre GL`
+### Languages
+`Python` `TypeScript` `Java`
 
 ### Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ez24)
