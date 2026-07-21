@@ -1,15 +1,16 @@
-# Hey, I'm Ethan
+# Hi, I'm Ethan
 
-CS @ Columbia University · Incoming SWE Intern @ Alibaba (Summer 2026)
+CS @ Columbia University (SEAS '28) · SWE intern @ Corning · Founder of [Columbia Software Solutions](https://github.com/columbiasoftwaresolutions)
 
-### What I'm working on
-- **[Columbia Software Solutions](https://github.com/columbiasoftwaresolutions)** — Founded a tech consultancy delivering pro bono software to NYC nonprofits and startups
-- **Refettorio Harlem** — WhatsApp bot automating logging of 800+ weekly meals for a nonprofit kitchen, replacing manual paper records
-- **[Columbia Robotics — AQUAS](https://github.com/AQUAS-mission/aquas-logging)** — Robot-to-cloud telemetry pipeline (MQTT + Postgres) and real-time geospatial dashboard for an autonomous water quality robot
+I build production software - - full-stack apps, ML tooling, and data pipelines - - and I care about shipping things people actually use.
 
-### Languages
-`Python` `TypeScript` `Java`
+## What I'm working on
+- **Corning** — building AI/ML tools for smart-manufacturing digitalization
+- **Columbia Software Solutions** — founded a 12-engineer pro-bono consultancy shipping software for NYC nonprofits
+- **Columbia Robotics (AQUAS)** — robot-to-cloud telemetry and geospatial dashboards for algal-bloom detection
 
-### Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ez24)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ez2450@columbia.edu)
+## Tech I reach for
+`Python` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Flask` · `PostgreSQL` · `pandas` · `scikit-learn`
+
+## Reach me
+ez2450@columbia.edu · [LinkedIn](https://linkedin.com/in/ez24)
