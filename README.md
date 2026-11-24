@@ -2,13 +2,13 @@
 
 CS @ Columbia University (SEAS ’28) · Co-founder & Technical Lead at [Columbia Software Solutions](https://github.com/columbiasoftwaresolutions) · Previously SWE intern at Corning
 
-## Featured project: Adaptive NPCs
+## First Place and Best Use of Managed Agents at the Google DeepMind Gemini 4 NYC Hackathon.
 
-**First Place and Best Use of Managed Agents at the Google DeepMind Gemini 4 NYC Hackathon.**
+** Adaptive NPCs**
 
 We built an agentic runtime that lets game studios personalize NPC behavior to each player’s playstyle. It analyzes live gameplay and updates behavior rules between rounds, while the game engine still makes each move locally.
 
-I built the tennis demo’s real-time stroke classifier, combining motion data from a Bluetooth racket sensor with webcam pose tracking.
+I built the tennis demo’s real-time stroke classifier, combining motion data from a Bluetooth racket sensor with webcam pose tracking. We won over half the prize pool out of 141 teams over 1200+ total applicants
 
 [Source code](https://github.com/GavinWongYF/gemini-hackathon) · [Architecture](https://github.com/GavinWongYF/gemini-hackathon/blob/main/agents/README.md) · [Demo](https://cerebralvalley.ai/e/gemini-4-nyc/hackathon/gallery/79)
 
